@@ -18,3 +18,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tandras92&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandras92&layout=compact" />
+
+[![Taylor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tandras92)](https://github.com/anuraghazra/github-readme-stats)
