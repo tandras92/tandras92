@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-# Hello, folks! My name is Taylor Andras and I'm a software developer.  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, everyone! My name is Taylor Andras and I'm a software developer.  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
@@ -19,4 +19,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tandras92&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandras92&layout=compact" />
 
-[![Taylor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tandras92)](https://github.com/anuraghazra/github-readme-stats)
+[![Taylor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tandras92&v=2)](https://github.com/anuraghazra/github-readme-stats)
